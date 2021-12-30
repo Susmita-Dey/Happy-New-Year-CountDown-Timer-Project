@@ -82,11 +82,20 @@ h1 {
 }
 
 h3 {
-  /* margin-top: 185px; */
   font-family: "The Nautigal", cursive;
-  /* font-weight: 700; */
   font-size: 50px;
+  width: 22ch;
+  animation: typing 2s steps(22);
+  white-space: nowrap;
+  overflow: hidden;
 }
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+}
+
 
 @media (max-width: 500px) {
   h1 {
@@ -104,5 +113,10 @@ h3 {
     box-shadow: 5px 5px 3px rgb(143, 143, 143);
     padding: 0.1rem;
     border-radius: 1px;
+  }
+  h3 {
+    font-size: 25px;
+    width: 20ch;
+    animation: typing 1s steps(12);
   }
 }
