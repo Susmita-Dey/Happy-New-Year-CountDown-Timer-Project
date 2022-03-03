@@ -5,7 +5,7 @@ This is a New Year Countdown Timer Project made with HTML, CSS & JS.
 ![DEMO](https://user-images.githubusercontent.com/79099734/156151809-16fa3a76-c317-4f93-bfce-ca50d0ab8f0d.png)
 
 
-## Check Out the Live [Demo](https://susmita-dey.github.io/Facebook-Login-Page-Clone-Tailwind-CSS/)
+## Check Out the Live [Demo](https://susmita-dey.github.io/Happy-New-Year-CountDown-Timer-Project/)
 
 <p align="center">
 
